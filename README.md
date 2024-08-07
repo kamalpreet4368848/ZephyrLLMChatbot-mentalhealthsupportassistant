@@ -1,4 +1,4 @@
-# ZephyrLLMChatbot
+# ZephyrLLMChatbot-mentalhealthsupportassistant
 A guideline to build no-cost LLM chatbot 
 
 This README provides a structured and detailed guide to help users through the process of creating and deploying a customized LLM chatbot using Hugging Face Spaces and Gradio, highlighting key steps and customization options, complete with useful links for easy navigation.
@@ -37,5 +37,5 @@ To make your chatbot truly unique, consider personalizing it extensively. For in
 
  If you wish to contribute: Please fork this repo. 
 
- For any question reach me out @ turna.fardousi@gmail.com
+ For any question reach me out @ ka4368848@alphacollege.me
 
